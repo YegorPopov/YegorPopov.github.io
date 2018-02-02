@@ -2,13 +2,9 @@
 
 font-family: 'GothamLight';
 
-src: url('file:///F:/site/fonts/GothamLight.ttf');
+src: url('YegorPopov.github.io/fonts/GothamLight.ttf');
 
-src: url('file:///F:/site/fonts/GothamLight.ttf?iefix') format('eot'),
-
-url('../fonts/WebFont-Italic.woff') format('woff'),
-
-url('file:///F:/site/fonts/OpenSans-Light.ttf') format('truetype'),
+src: url('YegorPopov.github.io/GothamLight.ttf?iefix') format('eot'),
 
 font-weight: normal;
 
